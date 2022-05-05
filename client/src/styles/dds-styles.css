@@ -1,0 +1,887 @@
+/*  
+
+Dock Design System (dds) / Colors Styles
+
+In this style's file there are the main colors that will be used throughout 
+the Ortoplus' Group web platforms. 
+
+Creation date: 18/11/2021 
+
+*/
+
+/* Neutral Colors */
+.dds-color-white {
+    color: #FFFFFF;
+}
+
+.dds-color-black {
+        color: #000000;
+}
+
+/* LineDock Main Colors */
+.dds-color-primary-linedock-100 {
+    color: #FCD5DB;
+}
+
+.dds-color-primary-linedock-200 {
+    color: #F8AAB8;
+}
+
+.dds-color-primary-linedock-300 {
+    color: #F58094;
+}
+
+.dds-color-primary-linedock-400 {
+    color: #F15570;
+}
+
+.dds-color-primary-linedock-500 {
+    color: #EE2A4D;
+}
+
+.dds-color-primary-linedock-600 {
+    color: #EA0029;
+}
+
+.dds-color-primary-linedock-600 :hover{
+    color: #D30025;
+}
+
+.dds-color-primary-linedock-700 {
+    color: #BB0021;
+}
+
+.dds-color-primary-linedock-800 {
+    color: #8C0019;
+}
+
+.dds-color-primary-linedock-900 {
+    color: #5E0010;
+}
+
+.dds-color-primary-linedock-1000 {
+    color: #2F0008;
+}
+
+/* OrtoDock Main Colors */
+.dds-color-primary-ortodock-100 {
+    color: #D5EFFB;
+}
+
+.dds-color-primary-ortodock-200 {
+    color: #AAE0F6;
+}
+
+.dds-color-primary-ortodock-300 {
+    color: #80D0F2;
+}
+
+.dds-color-primary-ortodock-400 {
+    color: #55C0ED;
+}
+
+.dds-color-primary-ortodock-500 {
+    color: #2BB1E9;
+}
+
+.dds-color-primary-ortodock-600 {
+    color: #00A1E4;
+}
+
+.dds-color-primary-ortodock-600 :hover{
+    color: #0091CD;
+}
+
+.dds-color-primary-ortodock-700 {
+    color: #0081B6;
+}
+
+.dds-color-primary-ortodock-800 {
+    color: #006189;
+}
+
+.dds-color-primary-ortodock-900 {
+    color: #00405B;
+}
+
+.dds-color-primary-ortodock-1000 {
+    color: #00202E;
+}
+
+/* ApneaDock Main Colors */
+.dds-color-primary-apneadock-100 {
+    color: #D5E9E4;
+}
+
+.dds-color-primary-apneadock-200 {
+    color: #AAD3CA;
+}
+
+.dds-color-primary-apneadock-300 {
+    color: #80BDAF;
+}
+
+.dds-color-primary-apneadock-400 {
+    color: #55A794;
+}
+
+.dds-color-primary-apneadock-500 {
+    color: #2B917A;
+}
+
+.dds-color-primary-apneadock-600 {
+    color: #007B5F;
+}
+
+.dds-color-primary-apneadock-600 :hover{
+    color: #006F56;
+}
+
+.dds-color-primary-apneadock-700 {
+    color: #00624C;
+}
+
+.dds-color-primary-apneadock-800 {
+    color: #004A39;
+}
+
+.dds-color-primary-apneadock-900 {
+    color: #003126;
+}
+
+.dds-color-primary-apneadock-1000 {
+    color: #001913;
+}
+
+/* Secondary Colors */
+.dds-color-secondary-100 {
+    color: #F4F4F4;
+}
+
+.dds-color-secondary-100 :hover {
+    color: #E5E5E5;
+}
+
+.dds-color-secondary-200 {
+    color: #E0E0E0;
+}
+
+.dds-color-secondary-200 :hover {
+    color: #CACACA;
+}
+
+.dds-color-secondary-300 {
+    color: #C6C6C6;
+}
+
+.dds-color-secondary-400 {
+    color: #A8A8A8;
+}
+
+.dds-color-secondary-500 {
+    color: #8D8D8D;
+}
+
+.dds-color-secondary-600 {
+    color: #6F6F6F;
+}
+
+.dds-color-secondary-600 :hover{
+    color: #616161;
+}
+
+.dds-color-secondary-700 {
+    color: #525252;
+}
+
+.dds-color-secondary-700 :hover{
+    color: #464646;
+}
+
+.dds-color-secondary-800 {
+    color: #393939;
+}
+
+.dds-color-secondary-800 :hover{
+    color: #303030;
+}
+
+.dds-color-secondary-900 {
+    color: #262626;
+}
+
+.dds-color-secondary-1000 {
+    color: #161616;
+}
+
+/* Alert Colors - Danger */
+.dds-color-danger-100 {
+    color: #F9DADB;
+}
+
+.dds-color-danger-200 {
+    color: #F3B4B7;
+}
+
+.dds-color-danger-300 {
+    color: #ED8F94;
+}
+
+.dds-color-danger-400 {
+    color: #E66970;
+}
+
+.dds-color-danger-500 {
+    color: #E0444C;
+}
+
+.dds-color-danger-600 {
+    color: #DA1E28;
+}
+
+.dds-color-danger-600 :hover{
+    color: #C41B24;
+}
+
+.dds-color-danger-700 {
+    color: #AE1820;
+}
+
+.dds-color-danger-800 {
+    color: #831218;
+}
+
+.dds-color-danger-900 {
+    color: #570C10;
+}
+
+.dds-color-danger-1000 {
+    color: #2C0608;
+}
+
+/* Alert Colors - Warning */
+.dds-color-warning-100 {
+    color: #FFEADC;
+}
+
+.dds-color-warning-200 {
+    color: #FFD6B8;
+}
+
+.dds-color-warning-300 {
+    color: #FFC195;
+}
+
+.dds-color-warning-400 {
+    color: #FFAC72;
+}
+
+.dds-color-warning-500 {
+    color: #FF984E;
+}
+
+.dds-color-warning-600 {
+    color: #FF832B;
+}
+
+.dds-color-warning-600 :hover{
+    color: #E67627;
+}
+
+.dds-color-warning-700 {
+    color: #CC6922;
+}
+
+.dds-color-warning-800 {
+    color: #994F1A;
+}
+
+.dds-color-warning-900 {
+    color: #663411;
+}
+
+.dds-color-warning-1000 {
+    color: #331A09;
+}
+
+/* Alert Colors - Info */
+.dds-color-info-100 {
+    color: #FFF9E6;
+}
+
+.dds-color-info-200 {
+    color: #FEF3CD;
+}
+
+.dds-color-info-300 {
+    color: #FEEEB4;
+}
+
+.dds-color-info-400 {
+    color: #FEE89B;
+}
+
+.dds-color-info-500 {
+    color: #FDE282;
+}
+
+.dds-color-info-600 {
+    color: #FDDC69;
+}
+
+.dds-color-info-600 :hover{
+    color: #E4C65F;
+}
+
+.dds-color-info-700 {
+    color: #CAB054;
+}
+
+.dds-color-info-800 {
+    color: #98843F;
+}
+
+.dds-color-info-900 {
+    color: #65582A;
+}
+
+.dds-color-info-1000 {
+    color: #332C15;
+}
+
+/* Alert Colors - Success */
+.dds-color-success-100 {
+    color: #FFF9E6;
+}
+
+.dds-color-success-200 {
+    color: #FEF3CD;
+}
+
+.dds-color-success-300 {
+    color: #FEEEB4;
+}
+
+.dds-color-success-400 {
+    color: #FEE89B;
+}
+
+.dds-color-success-500 {
+    color: #FDE282;
+}
+
+.dds-color-success-600 {
+    color: #FDDC69;
+}
+
+.dds-color-success-600 :hover{
+    color: #E4C65F;
+}
+
+.dds-color-success-700 {
+    color: #CAB054;
+}
+
+.dds-color-success-800 {
+    color: #98843F;
+}
+
+.dds-color-success-900 {
+    color: #65582A;
+}
+
+.dds-color-success-1000 {
+    color: #332C15;
+}
+
+/* Other Colors - Blue */
+.dds-color-blue-100 {
+    color: #D7E7FF;
+}
+
+.dds-color-blue-200 {
+    color: #AECFFE;
+}
+
+.dds-color-blue-300 {
+    color: #86B7FE;
+}
+
+.dds-color-blue-400 {
+    color: #5E9EFE;
+}
+
+.dds-color-blue-500 {
+    color: #3586FD;
+}
+
+.dds-color-blue-600 {
+    color: #0D6EFD;
+}
+
+.dds-color-blue-700 {
+    color: #0A58CA;
+}
+
+.dds-color-blue-800 {
+    color: #084298;
+}
+
+.dds-color-blue-900 {
+    color: #052C65;
+}
+
+.dds-color-blue-1000 {
+    color: #031633;
+}
+
+/* Other Colors - Indigo */
+.dds-color-indigo-100 {
+    color: #E6D7FD;
+}
+
+.dds-color-indigo-200 {
+    color: #CCAFFB;
+}
+
+.dds-color-indigo-300 {
+    color: #B388F9;
+}
+
+.dds-color-indigo-400 {
+    color: #9960F6;
+}
+
+.dds-color-indigo-500 {
+    color: #8038F4;
+}
+
+.dds-color-indigo-600 {
+    color: #6610F2;
+}
+
+.dds-color-indigo-700 {
+    color: #520DC2;
+}
+
+.dds-color-indigo-800 {
+    color: #3D0A91;
+}
+
+.dds-color-indigo-900 {
+    color: #290661;
+}
+
+.dds-color-indigo-1000 {
+    color: #140330;
+}
+
+/* Other Colors - Purple */
+.dds-color-purple-100 {
+    color: #E7E0F5;
+}
+
+.dds-color-purple-200 {
+    color: #CFC0EA;
+}
+
+.dds-color-purple-300 {
+    color: #B7A1E0;
+}
+
+.dds-color-purple-400 {
+    color: #9F81D6;
+}
+
+.dds-color-purple-500 {
+    color: #8762CB;
+}
+
+.dds-color-purple-600 {
+    color: #6F42C1;
+}
+
+.dds-color-purple-700 {
+    color: #59359A;
+}
+
+.dds-color-purple-800 {
+    color: #432874;
+}
+
+.dds-color-purple-900 {
+    color: #2C1A4D;
+}
+
+.dds-color-purple-1000 {
+    color: #160D27;
+}
+
+/* Other Colors - Pink */
+.dds-color-pink-100 {
+    color: #F8DDEB;
+}
+
+.dds-color-pink-200 {
+    color: #F1BBD6;
+}
+
+.dds-color-pink-300 {
+    color: #EB99C2;
+}
+
+.dds-color-pink-400 {
+    color: #E477AD;
+}
+
+.dds-color-pink-500 {
+    color: #DD5599;
+}
+
+.dds-color-pink-600 {
+    color: #D63384;
+}
+
+.dds-color-pink-700 {
+    color: #AB296A;
+}
+
+.dds-color-pink-800 {
+    color: #801F4F;
+}
+
+.dds-color-pink-900 {
+    color: #561435;
+}
+
+.dds-color-pink-1000 {
+    color: #2B0A1A;
+}
+
+/* Other Colors - Red */
+.dds-color-red-100 {
+    color: #F9DDE0;
+}
+
+.dds-color-red-200 {
+    color: #F3BCC1;
+}
+
+.dds-color-red-300 {
+    color: #EE9AA2;
+}
+
+.dds-color-red-400 {
+    color: #E87883;
+}
+
+.dds-color-red-500 {
+    color: #E25764;
+}
+
+.dds-color-red-600 {
+    color: #DC3545;
+}
+
+.dds-color-red-700 {
+    color: #B02A37;
+}
+
+.dds-color-red-800 {
+    color: #842029;
+}
+
+.dds-color-red-900 {
+    color: #58151C;
+}
+
+.dds-color-red-1000 {
+    color: #2C0B0E;
+}
+
+/* Other Colors - Orange */
+.dds-color-orange-100 {
+    color: #FFEAD8;
+}
+
+.dds-color-orange-200 {
+    color: #FED4B1;
+}
+
+.dds-color-orange-300 {
+    color: #FEBF8A;
+}
+
+.dds-color-orange-400 {
+    color: #FEA962;
+}
+
+.dds-color-orange-500 {
+    color: #FD943B;
+}
+
+.dds-color-orange-600 {
+    color: #FD7E14;
+}
+
+.dds-color-orange-700 {
+    color: #CA6510;
+}
+
+.dds-color-orange-800 {
+    color: #984C0C;
+}
+
+.dds-color-orange-900 {
+    color: #653208;
+}
+
+.dds-color-orange-1000 {
+    color: #331904;
+}
+
+/* Other Colors - Yellow */
+.dds-color-yellow-100 {
+    color: #FFF5D6;
+}
+
+.dds-color-yellow-200 {
+    color: #FFEAAC;
+}
+
+.dds-color-yellow-300 {
+    color: #FFE083;
+}
+
+.dds-color-yellow-400 {
+    color: #FFD65A;
+}
+
+.dds-color-yellow-500 {
+    color: #FFCB30;
+}
+
+.dds-color-yellow-600 {
+    color: #FFC107;
+}
+
+.dds-color-yellow-700 {
+    color: #CC9A06;
+}
+
+.dds-color-yellow-800 {
+    color: #997404;
+}
+
+.dds-color-yellow-900 {
+    color: #664D03;
+}
+
+.dds-color-yellow-1000 {
+    color: #332701;
+}
+
+/* Other Colors - Green */
+.dds-color-green-100 {
+    color: #D9EBE3;
+}
+
+.dds-color-green-200 {
+    color: #B2D7C6;
+}
+
+.dds-color-green-300 {
+    color: #8CC3AA;
+}
+
+.dds-color-green-400 {
+    color: #66AF8D;
+}
+
+.dds-color-green-500 {
+    color: #3F9B71;
+}
+
+.dds-color-green-600 {
+    color: #198754;
+}
+
+.dds-color-green-700 {
+    color: #146C43;
+}
+
+.dds-color-green-800 {
+    color: #0F5132;
+}
+
+.dds-color-green-900 {
+    color: #0A3622;
+}
+
+.dds-color-green-1000 {
+    color: #051B11;
+}
+
+/* Other Colors - Teal */
+.dds-color-teal-100 {
+    color: #DAF6EE;
+}
+
+.dds-color-teal-200 {
+    color: #B5EDDC;
+}
+
+.dds-color-teal-300 {
+    color: #90E4CB;
+}
+
+.dds-color-teal-400 {
+    color: #6ADBBA;
+}
+
+.dds-color-teal-500 {
+    color: #45D2A8;
+}
+
+.dds-color-teal-600 {
+    color: #20C997;
+}
+
+.dds-color-teal-700 {
+    color: #1AA179;
+}
+
+.dds-color-teal-800 {
+    color: #13795B;
+}
+
+.dds-color-teal-900 {
+    color: #0D503C;
+}
+
+.dds-color-teal-1000 {
+    color: #06281E;
+}
+
+/* Other Colors - Cyan */
+.dds-color-cyan-100 {
+    color: #D7F6FD;
+}
+
+.dds-color-cyan-200 {
+    color: #AEEDFA;
+}
+
+.dds-color-cyan-300 {
+    color: #86E5F8;
+}
+
+.dds-color-cyan-400 {
+    color: #5EDCF5;
+}
+
+.dds-color-cyan-500 {
+    color: #35D3F3;
+}
+
+.dds-color-cyan-600 {
+    color: #0DCAF0;
+}
+
+.dds-color-cyan-700 {
+    color: #0AA2C0;
+}
+
+.dds-color-cyan-800 {
+    color: #087990;
+}
+
+.dds-color-cyan-900 {
+    color: #055160;
+}
+
+.dds-color-cyan-1000 {
+    color: #032830;
+}
+
+/* Other Colors - Ground */
+.dds-color-ground-100 {
+    color: #EEEEE9;
+}
+
+.dds-color-ground-200 {
+    color: #DEDED3;
+}
+
+.dds-color-ground-300 {
+    color: #CDCDBD;
+}
+
+.dds-color-ground-400 {
+    color: #BCBCA6;
+}
+
+.dds-color-ground-500 {
+    color: #ACAC90;
+}
+
+.dds-color-ground-600 {
+    color: #9B9B7A;
+}
+
+.dds-color-ground-700 {
+    color: #7C7C62;
+}
+
+.dds-color-ground-800 {
+    color: #5D5D49;
+}
+
+.dds-color-ground-900 {
+    color: #3E3E31;
+}
+
+.dds-color-ground-1000 {
+    color: #1F1F18;
+}
+
+/* Other Colors - Grey */
+.dds-color-grey-100 {
+    color: #F1F3F4;
+}
+
+.dds-color-grey-200 {
+    color: #E4E6E9;
+}
+
+.dds-color-grey-300 {
+    color: #D6DADE;
+}
+
+.dds-color-grey-400 {
+    color: #C8CED3;
+}
+
+.dds-color-grey-500 {
+    color: #BBC1C8;
+}
+
+.dds-color-grey-600 {
+    color: #ADB5BD;
+}
+
+.dds-color-grey-700 {
+    color: #8A9197;
+}
+
+.dds-color-grey-800 {
+    color: #686D71;
+}
+
+.dds-color-grey-900 {
+    color: #45484C;
+}
+
+.dds-color-grey-1000 {
+    color: #232426;
+}
